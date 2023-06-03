@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_1</name>
+   <tag></tag>
+   <elementGuidId>f5df9281-3722-4b68-85bd-8fc91c44cf97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.anticon.anticon-home > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tester'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>63343fa4-4d35-48bd-b2da-b952a1abb082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>063e222e-8067-4cb4-b99b-8b293906fdc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1db69def-7418-486f-b553-6b21c7f2b98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>home</value>
+      <webElementGuid>eb74d90d-6ef8-46a5-98b7-1a2cb7619fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>5fb6d296-3722-412e-9a14-dcdef43c1b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>0e514596-2068-42f0-9602-6c32fe4258e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>ddcaf02b-d78c-48d9-b7a3-d7b468d1af65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a20c3b4d-9150-4fab-a273-8205a3d43bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-wrapper&quot;)/div[@class=&quot;Header__Wrapper-sc-1n6fzp2-0 jKPLHp&quot;]/div[@class=&quot;HeaderTemplate2__Wrapper-zi9u6m-0 cKGgdm&quot;]/div[@class=&quot;bottom-menu-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;secondary-nav&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;menu-items-left&quot;]/div[@class=&quot;item&quot;]/span[@class=&quot;MenuItem__Wrapper-sc-1s25l97-0 cRUPNE menu-item light&quot;]/a[1]/i[@class=&quot;anticon anticon-home&quot;]/svg[1]</value>
+      <webElementGuid>10fb4a20-873e-4b19-977e-0d2b40b1f80d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tester'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>07cd3788-7c20-4cf3-ae34-6f0ec8b5ed2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>2c65b84f-d4e5-4e4e-b058-85b3e540622b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All Products'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>6e9fbf7e-1c73-499f-b745-5fd801451f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase History'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>e7d9be40-33a9-4598-bb1c-548e6060dfc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

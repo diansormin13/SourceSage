@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>709b5518-5872-497d-a263-be7a7704abe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Comparison'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.anticon.anticon-shopping-cart.mobile-icon > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7e92899a-8d81-4640-963c-2f1d575b1725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 1024 1024</value>
+      <webElementGuid>3ae79a70-c191-4701-b119-e39bf1ec5049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9413f544-f37c-4a61-a70c-3c572aeec181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>shopping-cart</value>
+      <webElementGuid>f9f4e83f-4fcc-4d66-8d27-08761af3bd80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>58ac8424-076c-4613-8b34-c5f108c37032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>3306ecd6-0c23-44b0-9186-ac041893b16a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>7d500da9-3654-4fde-8702-5c4eeb782c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8bcfd5ab-c892-41b7-b8e8-6b8ead642b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-wrapper&quot;)/div[@class=&quot;Header__Wrapper-sc-1n6fzp2-0 jKPLHp&quot;]/div[@class=&quot;HeaderTemplate2__Wrapper-zi9u6m-0 cKGgdm&quot;]/div[@class=&quot;bottom-menu-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;secondary-nav&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;menu-items&quot;]/span[@class=&quot;MenuItem__Wrapper-sc-1s25l97-0 cRUPNE menu-item light&quot;]/a[1]/i[@class=&quot;anticon anticon-shopping-cart mobile-icon&quot;]/svg[1]</value>
+      <webElementGuid>d97ceb61-e9b0-4508-a9fb-8160dd33dafa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comparison'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>09681d92-419d-4b00-b190-311df000e022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favourites'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>111cb1d7-3443-4071-9acd-440976a1bd8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c2eaaa51-7935-4e0f-90d5-f00262231ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>e91f4ab0-182d-4ccb-8739-e6f18ff2dfed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

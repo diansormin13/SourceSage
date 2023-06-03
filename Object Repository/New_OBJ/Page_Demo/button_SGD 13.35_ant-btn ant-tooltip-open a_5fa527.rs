@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SGD 13.35_ant-btn ant-tooltip-open a_5fa527</name>
+   <tag></tag>
+   <elementGuidId>ddc738dd-41bc-4593-aa7d-392150900e1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-tooltip-open.ant-btn-default.ant-btn-sm.ant-btn-icon-only</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c47896f8-7c62-4383-86c2-87e76187ea17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c782fe70-aeaf-4c22-bfc8-061866287c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-tooltip-open ant-btn-default ant-btn-sm ant-btn-icon-only</value>
+      <webElementGuid>9428ef7d-9e3a-4c87-944b-af8d58afd2b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;SearchResultPage__Wrapper-sc-14fxmb3-0 bSUmHu&quot;]/div[@class=&quot;SearchResultPage__ContentWrapper-sc-14fxmb3-1 jIslUy&quot;]/div[@class=&quot;SearchResultPage__SearchResultPageWrapper-sc-14fxmb3-3 jCtUbR&quot;]/section[@class=&quot;wrapper&quot;]/div[@class=&quot;companyLists&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[1]/div[@class=&quot;ProductCard__Wrapper-ab65hn-0 hqewld search-result-card&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;ant-btn ant-tooltip-open ant-btn-default ant-btn-sm ant-btn-icon-only&quot;]</value>
+      <webElementGuid>40fea7d7-4ac8-4239-b59c-77ccb7ed7eb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>fe535e75-d49d-4a22-b904-8ac80532b32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-wrapper']/div/div/div/div[2]/section/div/div[2]/div/div/div[3]/div[3]/button[2]</value>
+      <webElementGuid>1bc3c676-f981-4301-ad9b-17b9dc469435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGD 13.35'])[1]/following::button[2]</value>
+      <webElementGuid>f5b6dc47-22da-41fe-ba5f-aea2abc7b078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Paper Stone A4 Planner - Dream It Make It Animals'])[1]/following::button[2]</value>
+      <webElementGuid>dc3e5198-5fe0-4c04-999a-f81269fcd233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Paper Stone A4 Planner - Dreamer Thinker Marble'])[1]/preceding::button[1]</value>
+      <webElementGuid>62bbf83c-aaa2-48d5-bbff-f60bc24fea3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGD 13.35'])[2]/preceding::button[1]</value>
+      <webElementGuid>62844f2d-9164-431c-b7b3-9a32bfd74fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/button[2]</value>
+      <webElementGuid>ccc18762-c052-4889-ba07-48190b76228e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>2ae3d423-42ee-4377-a383-bf0938a627b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

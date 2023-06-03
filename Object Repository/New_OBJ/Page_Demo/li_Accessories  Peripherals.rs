@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Accessories  Peripherals</name>
+   <tag></tag>
+   <elementGuidId>15813ef5-c50b-4240-a87b-221b9cb0118d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body-wrapper']/div/div/div/div/div/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>39486a5e-f70d-4592-aafe-db06cb31fdd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-menu-item ant-menu-item-active</value>
+      <webElementGuid>076012e7-70dc-4344-88e3-c74b12b8bebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>22df8ed2-1c3d-48cd-a48c-44fe7f5f884d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accessories &amp; Peripherals</value>
+      <webElementGuid>ced11baa-8965-40d2-9c4d-8292cde80c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;HomepageRender__Wrapper-sc-1qd752f-0 cjMnFd&quot;]/div[@class=&quot;HomeTemplate2__Wrapper-sc-1e91vez-0 dNQeJh&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-sm-7 ant-col-lg-5&quot;]/div[@class=&quot;HomeTemplate2__CategoriesContainer-sc-1e91vez-1 bFJdEy custom-scroll&quot;]/div[1]/ul[@class=&quot;ant-menu ant-menu-light ant-menu-root ant-menu-vertical&quot;]/li[@class=&quot;ant-menu-item ant-menu-item-active&quot;]</value>
+      <webElementGuid>5d74426e-d01b-4a71-9a2a-c96bad4fd77a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-wrapper']/div/div/div/div/div/div/div/ul/li</value>
+      <webElementGuid>a99f1620-45f6-4c2a-9e05-b1c81bde4b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::li[1]</value>
+      <webElementGuid>bb56e5a4-3997-4ef8-9d2a-99584c92b830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comparison'])[1]/following::li[1]</value>
+      <webElementGuid>fb90dd0d-3e8a-4243-927b-ab346687222f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories &amp; Supplies'])[1]/preceding::li[1]</value>
+      <webElementGuid>4da4f32d-5f56-457f-8fb2-4c8a08ff0f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apparels &amp; Shoes'])[1]/preceding::li[2]</value>
+      <webElementGuid>ac402fc5-5292-4ad3-89e8-ad0c75cf2872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accessories &amp; Peripherals']/parent::*</value>
+      <webElementGuid>1085fe8e-7f2b-49ba-b0b8-fcea3b6d1b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>7268bde9-b3dd-4c62-abb5-6e63e6a8b141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Accessories &amp; Peripherals' or . = 'Accessories &amp; Peripherals')]</value>
+      <webElementGuid>64c7f3f8-79b8-446d-9bbe-41239179e71c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

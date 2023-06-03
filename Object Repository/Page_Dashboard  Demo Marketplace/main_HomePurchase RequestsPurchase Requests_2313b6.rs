@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_HomePurchase RequestsPurchase Requests_2313b6</name>
+   <tag></tag>
+   <elementGuidId>0ccfddf5-97b4-4dc5-af77-c3ade8824337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>main.ant-layout-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/main</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>4ab05237-dfe6-4aee-b7c2-4e90a09c9516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-layout-content</value>
+      <webElementGuid>a47784da-21fa-413b-bbbb-73628049f321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home>Purchase Requests>Purchase RequestsSelect EntitySelect Project Codes StatusSelect Payment MethodSort FieldCreated AtSort OrderDescendingMy Purchase RequestsNeed My Approval1Reference NumberSS-PR-0003814-000006Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 02:08Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusPLACEDReason:for companyCancel OrderReference NumberSS-PR-0003813-000005Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 33.10ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 02:05Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:06Reason:for reasonReference NumberSS-PR-0003812-000004Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 00:37Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:06Reason:for reasonReference NumberSS-PR-0003809-000003Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 51.80ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 20:25Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reasonReference NumberSS-PR-0003807-000002Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 17:27Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reasonReference NumberSS-PR-0003806-000001Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 16:53Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reason1</value>
+      <webElementGuid>6eed8cc7-1122-4830-8f69-5f2300c4b8b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ManagerPage__StyledLayout-sc-1vh9jsi-4 epsKbp ant-layout&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/main[@class=&quot;ant-layout-content&quot;]</value>
+      <webElementGuid>dbd1fb06-cea9-47af-915e-b936c70e0d96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main</value>
+      <webElementGuid>7dabe208-6177-4f0e-be74-df92596425b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category Restrictions'])[1]/following::main[1]</value>
+      <webElementGuid>f3a9bb97-f029-4e4b-ad83-ff24c47e3309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private Products'])[1]/following::main[1]</value>
+      <webElementGuid>0c0ebebf-4c75-46ac-a2c1-9c1e09915286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>d97fca82-cb84-44d0-ad45-df14d1370269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'Home>Purchase Requests>Purchase RequestsSelect EntitySelect Project Codes StatusSelect Payment MethodSort FieldCreated AtSort OrderDescendingMy Purchase RequestsNeed My Approval1Reference NumberSS-PR-0003814-000006Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 02:08Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusPLACEDReason:for companyCancel OrderReference NumberSS-PR-0003813-000005Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 33.10ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 02:05Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:06Reason:for reasonReference NumberSS-PR-0003812-000004Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 00:37Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:06Reason:for reasonReference NumberSS-PR-0003809-000003Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 51.80ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 20:25Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reasonReference NumberSS-PR-0003807-000002Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 17:27Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reasonReference NumberSS-PR-0003806-000001Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 16:53Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reason1' or . = 'Home>Purchase Requests>Purchase RequestsSelect EntitySelect Project Codes StatusSelect Payment MethodSort FieldCreated AtSort OrderDescendingMy Purchase RequestsNeed My Approval1Reference NumberSS-PR-0003814-000006Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 02:08Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusPLACEDReason:for companyCancel OrderReference NumberSS-PR-0003813-000005Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 33.10ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 02:05Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:06Reason:for reasonReference NumberSS-PR-0003812-000004Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Sat, 03 Jun 2023 00:37Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:06Reason:for reasonReference NumberSS-PR-0003809-000003Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 51.80ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 20:25Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reasonReference NumberSS-PR-0003807-000002Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 17:27Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reasonReference NumberSS-PR-0003806-000001Address7500A Beach Road, 7500A Beach Road, #09-317M, The Plaza,   Singapore 199591TotalSGD 16.55ViewDivision testdivisionProject Codes testtestApprover 1:tester1@sourcesage.co(Tester)Created ByTestertester1@sourcesage.coat :Fri, 02 Jun 2023 16:53Contact Info++6590097990demo-buyer-admin@sourcesage.coStatusREJECTED by: Testeron Sat, 03 Jun 2023 02:07Reason:for reason1')]</value>
+      <webElementGuid>5b188e09-c8c0-479c-b49d-e14240efe318</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

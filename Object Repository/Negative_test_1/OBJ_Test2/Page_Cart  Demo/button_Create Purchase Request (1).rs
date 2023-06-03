@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create Purchase Request (1)</name>
+   <tag></tag>
+   <elementGuidId>b85777f8-0dd3-478f-ad84-f743d00fc29c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.ant-btn-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8038c266-60f3-4287-b873-4bf1deea51ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c731793-92e6-4847-8fda-960c4a373fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary ant-btn-lg</value>
+      <webElementGuid>be36221a-1482-4e63-aee2-eef3d0697f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Purchase Request </value>
+      <webElementGuid>a3386b0d-26c8-49ec-9f16-06359d9bb5bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;CartPage__CartPageWrapper-sc-1dkogce-0 hFUHYZ&quot;]/div[@class=&quot;CartPage__CartPageContentWrapper-sc-1dkogce-3 bWyEeX&quot;]/div[@class=&quot;CartPage__PRBtnContainer-sc-1dkogce-2 hKEtrm&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-lg&quot;]</value>
+      <webElementGuid>66114b4f-2784-4c59-bbd5-cc677b545468</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>6e42a8b8-b5a7-49a8-a74c-ee816959ede5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-wrapper']/div/div/div/div[6]/button</value>
+      <webElementGuid>56523e11-6d5e-4b35-8a1e-e3734d72a983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGD 33.10'])[4]/following::button[1]</value>
+      <webElementGuid>34c91b30-86f0-4a77-94cd-cd375629c9dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGD 33.10'])[3]/following::button[1]</value>
+      <webElementGuid>e000bb3d-2334-4883-80e4-91856bf234de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions'])[1]/preceding::button[1]</value>
+      <webElementGuid>f6028f2e-35d2-43e5-98f4-fa655a8c4047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Purchase Request']/parent::*</value>
+      <webElementGuid>760fe2e6-5929-46c6-953e-03e7a6fad75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>84cb1edc-4cf6-4762-bf9f-e644e3bbbbc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Create Purchase Request ' or . = 'Create Purchase Request ')]</value>
+      <webElementGuid>7571ba2d-355f-4975-9926-dea2733a5b79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

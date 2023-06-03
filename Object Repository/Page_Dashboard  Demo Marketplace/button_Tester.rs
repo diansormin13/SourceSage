@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tester</name>
+   <tag></tag>
+   <elementGuidId>23fd6572-80a7-480c-8e2b-98d5c90921b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-dropdown-link.ant-dropdown-trigger.ant-dropdown-open.ant-btn-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bfdb37fd-0a0d-426a-a3a7-81d055641a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3810d94d-d431-420c-a413-e0f2ca8be6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-dropdown-link ant-dropdown-trigger ant-dropdown-open ant-btn-link</value>
+      <webElementGuid>c6745077-1b0a-4d0f-a1ac-1582758edfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tester </value>
+      <webElementGuid>e212ae9f-ca24-4f3d-bd38-29f17187c2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ManagerPage__StyledLayout-sc-1vh9jsi-4 epsKbp ant-layout&quot;]/header[@class=&quot;ant-layout-header&quot;]/div[@class=&quot;ManagerPage__AvatarBox-sc-1vh9jsi-3 jeXqKz&quot;]/div[1]/div[@class=&quot;menu-item&quot;]/button[@class=&quot;ant-btn ant-dropdown-link ant-dropdown-trigger ant-dropdown-open ant-btn-link&quot;]</value>
+      <webElementGuid>9887ad8f-6e3a-4b45-b752-01d5474aa597</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>4c899da7-5268-43fc-a812-c264d848d3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/header/div[2]/div/div/button</value>
+      <webElementGuid>37c15e10-dff2-4c74-ad97-905ab3a24ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/following::button[1]</value>
+      <webElementGuid>3bd83fc0-68a3-42a8-a3bd-edd5c1229856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/following::button[1]</value>
+      <webElementGuid>29b18d33-70d2-46b6-8287-6b354631cfed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Requests'])[1]/preceding::button[1]</value>
+      <webElementGuid>c436e36c-aa2d-46ce-8cb8-a2ac0e81a152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>e0df8296-b3dc-4def-9c2e-48a6ced22bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tester ' or . = 'Tester ')]</value>
+      <webElementGuid>7af85614-7d2b-4dbf-a330-d11f4cec2a15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

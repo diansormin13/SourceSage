@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_1</name>
+   <tag></tag>
+   <elementGuidId>fd88c695-dedd-46f1-bcea-1c3713743cbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='entity fachru;'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#project-code-dropdown > div.ant-select-selection.ant-select-selection--single > span.ant-select-arrow > i.anticon.anticon-down.ant-select-arrow-icon > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1a3e8263-9d5d-4765-a0ac-f50f2f0eb574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>748ae5fb-ddbd-4d8a-a1a7-5f6b81060612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5aa9c89f-87ad-4276-9f84-9bc84ac0a0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>down</value>
+      <webElementGuid>1ac8d4c6-688d-46fe-9bc3-4b0011e04599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>8e8b6815-fbd7-44a8-a946-eb40b39eae70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>4111b856-d258-4c1f-998e-596501d9347d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>85b8757f-6a31-433f-ab42-a97266d2ec99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6d0876d5-9022-4e9e-8508-79be8b8d7e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;CartPage__CartPageWrapper-sc-1dkogce-0 hFUHYZ&quot;]/div[@class=&quot;CartPage__CartPageContentWrapper-sc-1dkogce-3 bWyEeX&quot;]/div[@class=&quot;ant-row DeliveryAddressRow__DeliveryAddressRowWrapper-lctlf-0 hiFoCh&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-6&quot;]/div[1]/div[@id=&quot;project-code-dropdown&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--single&quot;]/span[@class=&quot;ant-select-arrow&quot;]/i[@class=&quot;anticon anticon-down ant-select-arrow-icon&quot;]/svg[1]</value>
+      <webElementGuid>22b667bd-c40c-4682-b046-3a1ec4f49f7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Codes'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>f933b315-183d-48ab-870d-f1319626cc66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='entity fachru;'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>8213f3af-9f39-40ac-bb13-decb407fa5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Delivery Address'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>3a48bab6-7e36-4149-9414-054ed4135ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Marketplace'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>3fa84ce5-c5ac-4d0c-b3cf-e47bbecddd07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_testspend</name>
+   <tag></tag>
+   <elementGuidId>b304c5c2-22ee-4628-a129-a9904f815039</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='testspend'])[3]/preceding::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-tooltip-open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a02f085-8f7f-4cf2-9d4a-b9ed4ff7df4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tooltip-open</value>
+      <webElementGuid>ddb3f736-3783-4333-aae2-d433af2b2b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testspend</value>
+      <webElementGuid>c9a5b359-a90c-4d12-a68d-0e68b4d2b0ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;af8067fc-1413-413d-c4d4-0d8f6e319fe3&quot;)/ul[@class=&quot;ant-select-dropdown-menu  ant-select-dropdown-menu-root ant-select-dropdown-menu-vertical&quot;]/li[@class=&quot;ant-select-dropdown-menu-item ant-select-dropdown-menu-item-active ant-select-dropdown-menu-item-selected&quot;]/span[@class=&quot;ant-tooltip-open&quot;]</value>
+      <webElementGuid>f4579696-5922-4ca9-b700-b594529099d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='af8067fc-1413-413d-c4d4-0d8f6e319fe3']/ul/li/span</value>
+      <webElementGuid>58ef44a5-54aa-4128-bd07-4efef21dc0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi!'])[1]/following::span[1]</value>
+      <webElementGuid>32c98e4e-c962-4f0b-b0dd-34e81937c929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Support'])[1]/following::span[1]</value>
+      <webElementGuid>dc951182-0abb-47dc-9607-75e3fc683f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testspend'])[3]/preceding::span[1]</value>
+      <webElementGuid>c417e3c8-a82d-4c4e-91cb-73b718256193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>2327422f-3267-4318-a03a-0bc5e3713dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'testspend' or . = 'testspend')]</value>
+      <webElementGuid>326237fb-4db6-4c62-83ee-dc34dbcb4f18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

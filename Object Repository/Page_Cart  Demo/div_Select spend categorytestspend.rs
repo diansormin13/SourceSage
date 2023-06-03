@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select spend categorytestspend</name>
+   <tag></tag>
+   <elementGuidId>3d548ce9-689e-4005-ba52-c6152d34a7d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-enabled.ant-select-focused > div.ant-select-selection.ant-select-selection--single > div.ant-select-selection__rendered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body-wrapper']/div/div/div/div[3]/div/div[4]/div[3]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9677996-99f7-4e5b-ac8d-d715ca78ef19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection__rendered</value>
+      <webElementGuid>4a16c7c2-52b9-4494-870c-1d976f8373ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select spend categorytestspend </value>
+      <webElementGuid>882d2fee-3fea-45d8-a4e6-ea02bc7d84f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;CartPage__CartPageWrapper-sc-1dkogce-0 hFUHYZ&quot;]/div[@class=&quot;CartPage__CartPageContentWrapper-sc-1dkogce-3 bWyEeX&quot;]/div[@class=&quot;ant-row CartPage__TableItem-sc-1dkogce-5 oFLSb&quot;]/div[@class=&quot;ant-row ItemListPerStore__StyledItemWrapper-crjgbw-1 eYGEFB&quot;]/div[@class=&quot;ant-row ItemListPerStore__CartItemRow-crjgbw-2 epBLIs&quot;]/div[@class=&quot;ant-col ant-col-xs-22 ant-col-xs-offset-2 ant-col-md-5 ant-col-md-offset-0&quot;]/div[2]/div[@class=&quot;ant-select ant-select-enabled ant-select-focused&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--single&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]</value>
+      <webElementGuid>0e66d749-987f-4286-bdca-8a73496c60e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-wrapper']/div/div/div/div[3]/div/div[4]/div[3]/div[2]/div/div/div</value>
+      <webElementGuid>6fbce2a5-089a-4362-8049-d4b1c94fd281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachment'])[1]/following::div[7]</value>
+      <webElementGuid>ffb7aa34-5e84-404e-a9b7-157fabbce746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::div[7]</value>
+      <webElementGuid>8e511f07-c59b-40dc-b869-dfedb5008bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div</value>
+      <webElementGuid>9d3740f0-e8a5-4719-9339-9cfc9470f3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select spend categorytestspend ' or . = 'Select spend categorytestspend ')]</value>
+      <webElementGuid>2bc44a21-19dd-4ebd-b84c-90fc0699ed04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

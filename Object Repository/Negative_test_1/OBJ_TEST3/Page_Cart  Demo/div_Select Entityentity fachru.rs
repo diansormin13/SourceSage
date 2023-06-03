@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Entityentity fachru</name>
+   <tag></tag>
+   <elementGuidId>1a26061e-2d9c-4e19-892f-5ea660b55e27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-enabled.ant-select-focused > div.ant-select-selection.ant-select-selection--single > div.ant-select-selection__rendered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body-wrapper']/div/div/div/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13b42da4-2879-470a-8dd7-61b1e7c78055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection__rendered</value>
+      <webElementGuid>14a25f7d-b9d8-4a14-bdc8-74b857fec109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Entityentity fachru; </value>
+      <webElementGuid>617b95d8-1699-48d5-815c-82a46a6c113f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;CartPage__CartPageWrapper-sc-1dkogce-0 hFUHYZ&quot;]/div[@class=&quot;CartPage__CartPageContentWrapper-sc-1dkogce-3 bWyEeX&quot;]/div[@class=&quot;ant-row DeliveryAddressRow__DeliveryAddressRowWrapper-lctlf-0 hiFoCh&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-5&quot;]/div[1]/div[@class=&quot;ant-select ant-select-enabled ant-select-focused&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--single&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]</value>
+      <webElementGuid>7f0d818c-c767-4947-86ae-b1f3cd24f6e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-wrapper']/div/div/div/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>39b11f96-fae8-464e-8971-54488f008a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='divtest'])[1]/following::div[7]</value>
+      <webElementGuid>b29b3aa0-0cce-44b1-9a43-c5c0712c7c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Division'])[1]/following::div[8]</value>
+      <webElementGuid>c3c099e2-674a-416c-9d27-f84ca0b33252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>ebbb0ba0-4725-4b50-a378-66b4737da62b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Entityentity fachru; ' or . = 'Select Entityentity fachru; ')]</value>
+      <webElementGuid>fa91919b-13b8-4498-8bca-db1e49cd587e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

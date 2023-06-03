@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_for company</name>
+   <tag></tag>
+   <elementGuidId>82dfb6df-d9a9-4a4b-b0c1-f324c4d23f52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'for company' or . = 'for company')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-select-dropdown-menu-item.ant-select-dropdown-menu-item-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2c926b73-5a6e-4a19-a4ef-54fe37467379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>ea3b0c38-8b7a-48c3-ba8e-408ea43e005c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>76547e31-da10-4a5f-8c47-42ef784b9fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-dropdown-menu-item ant-select-dropdown-menu-item-active</value>
+      <webElementGuid>54dfd9da-0ab1-4eaa-9bbe-f552770f4e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c62b9255-8411-498c-8a8e-1da77ce7941f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>for company</value>
+      <webElementGuid>58dece12-dce4-4ccc-9d80-a97ec0a2e3b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c6f6793d-69ea-4ed9-96e9-01fc889834b2&quot;)/ul[@class=&quot;ant-select-dropdown-menu  ant-select-dropdown-menu-root ant-select-dropdown-menu-vertical&quot;]/li[@class=&quot;ant-select-dropdown-menu-item ant-select-dropdown-menu-item-active&quot;]</value>
+      <webElementGuid>69e3b294-6b03-471d-86d2-499893d877f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c6f6793d-69ea-4ed9-96e9-01fc889834b2']/ul/li</value>
+      <webElementGuid>5f006026-fd2d-4df1-bf44-a7570b33b0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Reason and Create Purchase Request'])[1]/following::li[1]</value>
+      <webElementGuid>ac63bc72-4937-4e49-9fd6-d292b36e1c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::li[1]</value>
+      <webElementGuid>3dd7c2cb-8b4c-4649-99d1-38bc06bc4845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/ul/li</value>
+      <webElementGuid>13d5576d-a5e8-498c-af45-46f988ea89dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'for company' or . = 'for company')]</value>
+      <webElementGuid>a63d722c-a75c-4790-af69-b923466b54d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

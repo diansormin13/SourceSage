@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>1938d164-a449-4262-9166-2db567545e30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-modal-confirm-btns > button.ant-btn.ant-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0d1770b6-4b29-4ed7-a34b-ac9c52edbb71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>edb11074-ef66-4630-bd42-67f0c83fcb33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary</value>
+      <webElementGuid>54015f31-951d-48df-a848-8bc102affa60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>e81f11f0-17ae-43d6-8db4-329ddb719415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;plt-tablet plt-desktop md hydrated&quot;]/body[@class=&quot;ant-scrolling-effect&quot;]/div[5]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal ant-modal-confirm ant-modal-confirm-warning&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-modal-confirm-body-wrapper&quot;]/div[@class=&quot;ant-modal-confirm-btns&quot;]/button[@class=&quot;ant-btn ant-btn-primary&quot;]</value>
+      <webElementGuid>a4bbfb46-5f3b-4a4d-8cb8-6424a68d7510</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>c03895c3-fee6-4889-a6d7-fbe2d0de1931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select Project Codes'])[1]/following::button[1]</value>
+      <webElementGuid>f5d6e126-fa2b-463f-a69f-9f045570358a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete Data'])[1]/following::button[1]</value>
+      <webElementGuid>6d4a22a8-00c4-40f8-8b68-f0b3a5b14270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>49048b87-6e9c-4acd-93d9-25166e38feb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>76e3ee85-091e-4cbf-a8f9-90f309bcd099</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg-1-1</name>
+   <tag></tag>
+   <elementGuidId>edd61baa-a1ac-409c-823f-c6a65e1fb357</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='entity fachru;'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-enabled.ant-select-focused > div.ant-select-selection.ant-select-selection--single > span.ant-select-arrow > i.anticon.anticon-down.ant-select-arrow-icon > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>48175961-e7c5-4ba3-925e-d76c13a8639e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>bb867e48-dbf5-481b-9a65-c7f63f162e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ae59bb3b-318e-4ee0-814b-012986a691d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>down</value>
+      <webElementGuid>6c0d7307-24e8-4638-a2bf-181a9b0bcf31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>8f17fa37-7b2c-46f7-ab2a-8474c430fdca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>ee30af92-23eb-47cf-be85-9e7534285f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>cb1afcc5-0a5a-4767-b885-95d5d8ad2d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2b194490-7f6e-4d2f-8242-1a78c0c05737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;CartPage__CartPageWrapper-sc-1dkogce-0 hFUHYZ&quot;]/div[@class=&quot;CartPage__CartPageContentWrapper-sc-1dkogce-3 bWyEeX&quot;]/div[@class=&quot;ant-row DeliveryAddressRow__DeliveryAddressRowWrapper-lctlf-0 hiFoCh&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-5&quot;]/div[1]/div[@class=&quot;ant-select ant-select-enabled ant-select-focused&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--single&quot;]/span[@class=&quot;ant-select-arrow&quot;]/i[@class=&quot;anticon anticon-down ant-select-arrow-icon&quot;]/svg[1]</value>
+      <webElementGuid>94e435e6-640c-4000-86b5-ddf60de17e02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='divtest'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>51f25a60-17f5-4334-b647-5e3817940779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Division'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b651d674-0a00-4d00-8e41-77f94b17b47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Entity'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ba0e3e8e-95fb-4b52-a116-d543a58b43ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='entity fachru;'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5fb9e0c5-c946-4630-9729-f7476d4b72d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

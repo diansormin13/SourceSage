@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1. 7500A Beach Road 09-317M, The Plaza</name>
+   <tag></tag>
+   <elementGuidId>490b80d1-a53b-4974-8fd1-9a8f0e1494b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='7500A Beach Road #09-317M, The Plaza']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ant-tooltip-open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>da02146c-0d1a-427c-baaf-4df4900747fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tooltip-open</value>
+      <webElementGuid>c0dc4b89-f4cc-48f9-bd91-7436c67c6e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. 7500A Beach Road #09-317M, The Plaza</value>
+      <webElementGuid>a9bf1c42-f193-4f18-a301-619b9b2def85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;794f6584-778f-4389-886a-fe79ac5c027c&quot;)/ul[@class=&quot;ant-select-dropdown-menu  ant-select-dropdown-menu-root ant-select-dropdown-menu-vertical&quot;]/li[@class=&quot;ant-select-dropdown-menu-item ant-select-dropdown-menu-item-active&quot;]/div[@class=&quot;DeliveryAddressRow__AddressOption-lctlf-1 bqYwtu&quot;]/p[@class=&quot;ant-tooltip-open&quot;]</value>
+      <webElementGuid>e420ec7f-3c2a-4db7-a127-431a0bdd68d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='794f6584-778f-4389-886a-fe79ac5c027c']/ul/li/div/p</value>
+      <webElementGuid>942b67b5-d820-4f56-9419-514dfb768469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testtest'])[3]/following::p[1]</value>
+      <webElementGuid>9d19603e-cce6-4919-9984-b6b1ccd92b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testtest'])[2]/following::p[1]</value>
+      <webElementGuid>38149ddf-da5b-47f6-b826-f5af321d1350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='7500A Beach Road #09-317M, The Plaza']/parent::*</value>
+      <webElementGuid>4d6fd6b7-78a8-46c8-9e52-d1c0241584a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/p</value>
+      <webElementGuid>395d5695-da78-4cb9-b11e-58c4150a7afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '1. 7500A Beach Road #09-317M, The Plaza' or . = '1. 7500A Beach Road #09-317M, The Plaza')]</value>
+      <webElementGuid>7ca96074-8624-4689-84da-9e267164a693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Purchase HistoryFavouritesComparisonCart</name>
+   <tag></tag>
+   <elementGuidId>4c5c087c-16c1-48d6-a157-33e457448722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item > div.menu-items</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-wrapper']/div/div/div[2]/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5c50375-9f09-409c-963a-a84328fd4250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-items</value>
+      <webElementGuid>ea200eb3-40e1-489d-ac3b-b43c1427d376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Purchase HistoryFavouritesComparisonCart</value>
+      <webElementGuid>f69dee6a-4a42-4bef-8c1a-6094fc060364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-wrapper&quot;)/div[@class=&quot;Header__Wrapper-sc-1n6fzp2-0 jKPLHp&quot;]/div[@class=&quot;HeaderTemplate2__Wrapper-zi9u6m-0 cKGgdm&quot;]/div[@class=&quot;bottom-menu-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;secondary-nav&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;menu-items&quot;]</value>
+      <webElementGuid>39c93caa-9ee0-45aa-b32b-9ba6950a6dc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-wrapper']/div/div/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>6492ded6-8af9-4e87-8498-5ee991ae6315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All Products'])[1]/following::div[7]</value>
+      <webElementGuid>9f7ad423-f976-4eee-8800-79e46b4578c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tester'])[1]/following::div[14]</value>
+      <webElementGuid>74af29ef-8d00-4d46-9576-8026df7a26ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div</value>
+      <webElementGuid>7d5a1602-b868-47de-85b9-0f999e8ff264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Purchase HistoryFavouritesComparisonCart' or . = 'Purchase HistoryFavouritesComparisonCart')]</value>
+      <webElementGuid>427c79dd-eb27-4e82-9ce2-9c27af23d8e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

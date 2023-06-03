@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>data_login</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tester1@sourcesage.co'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Password123!'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

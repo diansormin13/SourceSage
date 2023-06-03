@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_entity fachru</name>
+   <tag></tag>
+   <elementGuidId>593f4a1a-5730-437a-a7c5-88c5bfe83b28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'entity fachru;' or . = 'entity fachru;')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-select-dropdown-menu-item.ant-select-dropdown-menu-item-active.ant-select-dropdown-menu-item-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d49afafd-da01-4a85-966c-c9e2ea7f6a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>d81decdd-f94e-44f2-ae70-926f4722faf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>cdfd5f1f-b1a9-4ba6-98dc-f6ef4acb3f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-dropdown-menu-item ant-select-dropdown-menu-item-active ant-select-dropdown-menu-item-selected</value>
+      <webElementGuid>5a98e9a0-100c-4c77-9a82-9e41b4530bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d7a89aa8-3b11-4ed4-923c-66190ed8033b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>entity fachru;</value>
+      <webElementGuid>ee1cbbb3-8390-4129-837e-83ce00324d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d655646c-2f04-42f9-e4e0-6bbb5db8f5f6&quot;)/ul[@class=&quot;ant-select-dropdown-menu  ant-select-dropdown-menu-root ant-select-dropdown-menu-vertical&quot;]/li[@class=&quot;ant-select-dropdown-menu-item ant-select-dropdown-menu-item-active ant-select-dropdown-menu-item-selected&quot;]</value>
+      <webElementGuid>8921bb7e-1263-4918-afdc-edecd6568ac9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d655646c-2f04-42f9-e4e0-6bbb5db8f5f6']/ul/li</value>
+      <webElementGuid>d8b5f932-f04c-4bdf-b30e-a15e3e101f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test1'])[1]/following::li[1]</value>
+      <webElementGuid>e0fa68b4-a3b1-496b-97f7-c7ae64b10ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testdivision'])[2]/following::li[2]</value>
+      <webElementGuid>d53b3595-857e-4848-8bd8-00e5d2b1010a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='entity2'])[1]/preceding::li[1]</value>
+      <webElementGuid>49314ef6-6be4-4c03-8527-f0db574ecbda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/ul/li</value>
+      <webElementGuid>b425527b-6e6c-4916-b4ea-d43435b98b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'entity fachru;' or . = 'entity fachru;')]</value>
+      <webElementGuid>45021a0e-44fc-49b4-b4a5-628f22a825be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

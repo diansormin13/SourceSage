@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Delivery Address</name>
+   <tag></tag>
+   <elementGuidId>07b08a02-25b3-44e3-9a0a-824f358b0ebd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-col.ant-col-sm-24.ant-col-md-8 > div.ant-select.ant-select-enabled.ant-select-allow-clear > div.ant-select-selection.ant-select-selection--single > div.ant-select-selection__rendered > div.ant-select-selection__placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body-wrapper']/div/div/div/div[2]/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a12121a-2695-45d7-9abc-8a8fd0440f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>001f53b5-776e-49bb-9ebe-b66bd2d335bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection__placeholder</value>
+      <webElementGuid>0b15257a-2213-499f-b45f-060edd005fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Delivery Address</value>
+      <webElementGuid>c9e5d041-906e-4e1b-9556-5908305e8f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;CartPage__CartPageWrapper-sc-1dkogce-0 hFUHYZ&quot;]/div[@class=&quot;CartPage__CartPageContentWrapper-sc-1dkogce-3 bWyEeX&quot;]/div[@class=&quot;ant-row DeliveryAddressRow__DeliveryAddressRowWrapper-lctlf-0 hiFoCh&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-8&quot;]/div[@class=&quot;ant-select ant-select-enabled ant-select-allow-clear&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--single&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]/div[@class=&quot;ant-select-selection__placeholder&quot;]</value>
+      <webElementGuid>d46cdf51-2f3c-4ed4-9553-5356e5a03197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-wrapper']/div/div/div/div[2]/div[4]/div/div/div/div</value>
+      <webElementGuid>71961c44-ae4a-437b-bc61-47502203e7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approvers:'])[1]/following::div[6]</value>
+      <webElementGuid>0d7918ee-9447-4c30-9a3c-b387dd88fb9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remaining Budget:'])[1]/following::div[7]</value>
+      <webElementGuid>ffcfe965-88fd-4b7b-83f1-b461a3d6c39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Marketplace'])[1]/preceding::div[3]</value>
+      <webElementGuid>8215c6f2-3b43-4ce5-ac9e-18dc8466c07f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Free Shipping for every order'])[1]/preceding::div[3]</value>
+      <webElementGuid>a7704d4b-5b44-4e97-b6e3-c94b1fc8b7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Delivery Address']/parent::*</value>
+      <webElementGuid>272f39a0-56e0-4b2a-a576-4bb60d83ef8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>f1d10e50-044a-465c-9615-402659472241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Delivery Address' or . = 'Select Delivery Address')]</value>
+      <webElementGuid>b0755a55-1abb-4a2e-b1b2-a01232252e79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

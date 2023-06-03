@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>7ccec973-71da-40a6-959e-4f53aba28acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fav-icon > i.anticon.anticon-heart > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5c74e2b6-9173-43b7-a5ac-27e0fe2cc709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>25411901-6cc9-473f-953a-a9d9173985c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1d7d1c0d-1794-4143-8586-b0081b43975e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>heart</value>
+      <webElementGuid>45c357e6-a07e-4978-92d9-cfc3f914a84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>2bdb90a7-247f-4519-af85-a55039a6e424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>c4b7f08c-7ab4-489c-b975-7e21c0d3f72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>4e81f7bb-3552-4e63-a3ab-5c52085a3aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>59f4ba70-2849-435a-894b-6354ae5a6b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;SearchResultPage__Wrapper-sc-14fxmb3-0 bSUmHu&quot;]/div[@class=&quot;SearchResultPage__ContentWrapper-sc-14fxmb3-1 jIslUy&quot;]/div[@class=&quot;SearchResultPage__SearchResultPageWrapper-sc-14fxmb3-3 jCtUbR&quot;]/section[@class=&quot;wrapper&quot;]/div[@class=&quot;companyLists&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[1]/div[@class=&quot;ProductCard__Wrapper-ab65hn-0 hqewld search-result-card&quot;]/div[@class=&quot;header&quot;]/span[@class=&quot;fav-icon&quot;]/i[@class=&quot;anticon anticon-heart&quot;]/svg[1]</value>
+      <webElementGuid>1ef269e0-3b38-4783-a4e9-cc1d031d55a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>c4041e2d-8a2a-4381-9935-7c5e0f666b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>16ff778f-db38-44af-be96-f0e09062a351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGD 16.55'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>d5ccb41b-e68d-491e-b814-defab1cc40c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Paper Stone A4 Planner - Dream It Make It Animals'])[1]/preceding::*[name()='svg'][7]</value>
+      <webElementGuid>b80b9c2f-ce8d-436d-95a0-ef0cf95d7c53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

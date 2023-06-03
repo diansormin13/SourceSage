@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>10e3bc60-5c50-48e5-a442-ea2d6e594f8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-modal-confirm-btns > button.ant-btn.ant-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df767c1d-4e09-4e02-afe5-750104d2ed25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9feb2e1-401b-466a-a866-31c42f01deba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary</value>
+      <webElementGuid>37fbeb2f-4b2e-4b24-a040-8399a3a31c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>d3c6806c-589d-4b8b-840c-7b74ea6f4f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;plt-tablet plt-desktop md hydrated&quot;]/body[@class=&quot;ant-scrolling-effect&quot;]/div[11]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal ant-modal-confirm ant-modal-confirm-error&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-modal-confirm-body-wrapper&quot;]/div[@class=&quot;ant-modal-confirm-btns&quot;]/button[@class=&quot;ant-btn ant-btn-primary&quot;]</value>
+      <webElementGuid>cd77c171-9f88-4342-bfe1-4560b1ed7cf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>9c73309d-86b9-48cf-9c22-b8e2328ca0b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart items not Found'])[1]/following::button[1]</value>
+      <webElementGuid>26629281-cc2a-44c2-a662-36f8231d8729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed create purchase request'])[1]/following::button[1]</value>
+      <webElementGuid>671ba118-b43c-4f58-a448-9cb49b047cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>00c4299e-1142-4c23-9498-e618be551235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>f6c6fc1c-3ea0-4220-b7fa-464632171b77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

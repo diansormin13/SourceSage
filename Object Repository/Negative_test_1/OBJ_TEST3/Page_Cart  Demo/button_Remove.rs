@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Remove</name>
+   <tag></tag>
+   <elementGuidId>7dcc757e-3d4e-4740-bfcc-64148e2df7bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Remove' or . = 'Remove')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>47a16249-5d14-4c69-bcd3-2c17bf02c2a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1bc3a92e-38c0-489c-97af-a5228cf69a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-danger</value>
+      <webElementGuid>905dba97-a060-45e6-b8a5-e4f5712bdf66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>bbd229df-a43e-421f-8c47-5e813502997a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;plt-tablet plt-desktop md hydrated&quot;]/body[@class=&quot;ant-scrolling-effect&quot;]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal ant-modal-confirm ant-modal-confirm-confirm&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-modal-confirm-body-wrapper&quot;]/div[@class=&quot;ant-modal-confirm-btns&quot;]/button[@class=&quot;ant-btn ant-btn-danger&quot;]</value>
+      <webElementGuid>ac69456f-9319-42ff-b758-fbf92b09a793</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>0051c9a6-9d5a-4ee5-99fe-92422ddc6865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>8ead68ea-52ee-430d-a14a-fb90d72349fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove Item'])[1]/following::button[2]</value>
+      <webElementGuid>4d686269-6584-45c4-afcc-7234cf49c7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>aa10b48b-42cd-4f49-bdd4-07c7fa18e734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Remove' or . = 'Remove')]</value>
+      <webElementGuid>a734e36c-bc8d-407c-8d2e-eb2d351cd991</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

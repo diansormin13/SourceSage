@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PLACED</name>
+   <tag></tag>
+   <elementGuidId>d080c534-f144-46f1-b343-2c96ec09701a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-tag.ant-tag-blue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/main/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div/div[4]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e3eecbe1-2506-4fa9-9244-1d3eea535e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tag ant-tag-blue</value>
+      <webElementGuid>2660b2eb-be41-4711-a115-7c92cb2bfb03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PLACED</value>
+      <webElementGuid>01000715-6e81-4412-9580-af86db1a6e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ManagerPage__StyledLayout-sc-1vh9jsi-4 epsKbp ant-layout&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;ManagerPage__Container-sc-1vh9jsi-1 exLnlC&quot;]/div[@class=&quot;PurchaseRequestsPage__Container-xb4c0s-0 jChaqM&quot;]/div[@class=&quot;page-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;BoxedLayout__Wrapper-sc-1ilgm22-0 dwIpzN&quot;]/div[@class=&quot;BoxedLayout__BoxContainer-sc-1ilgm22-1 cXRQdV&quot;]/div[@class=&quot;BoxedLayout__BoxPanel-sc-1ilgm22-2 mHGXf&quot;]/div[@class=&quot;BoxedLayout__BoxContent-sc-1ilgm22-4 isZZwy&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-5&quot;]/div[@class=&quot;info-item&quot;]/div[1]/span[@class=&quot;ant-tag ant-tag-blue&quot;]</value>
+      <webElementGuid>e7cc09e0-03e1-40ae-9c1c-43e016b43154</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div/div[4]/div/div/span</value>
+      <webElementGuid>5f19e411-05a3-4c1c-a294-969289dcaa1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[1]</value>
+      <webElementGuid>ddf49225-6207-411c-a90c-ead6d401af2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='demo-buyer-admin@sourcesage.co'])[1]/following::span[1]</value>
+      <webElementGuid>8f5a4525-c58e-4265-8c5f-85fb3734d17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Order'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c62621d-094e-47db-a8eb-128f0f12fbb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference Number'])[2]/preceding::span[2]</value>
+      <webElementGuid>bb1abdc0-85e1-4f1e-8d74-06db3ef2fc05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PLACED']/parent::*</value>
+      <webElementGuid>a1c08e5b-0cc0-4c88-a0b2-31a44e8f0a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/span</value>
+      <webElementGuid>973602e0-db1a-4ce6-aebc-c76061706daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PLACED' or . = 'PLACED')]</value>
+      <webElementGuid>b0ecaae4-fa6e-4a5e-8350-968751c82020</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
